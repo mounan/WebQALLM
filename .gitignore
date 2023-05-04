@@ -1,0 +1,4 @@
+authkey-local.txt
+log.txt
+faiss_index/index.faiss
+test_docs/test1.txt
